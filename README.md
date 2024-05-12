@@ -2,7 +2,8 @@
  <img align= "right" width= "250" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU0NzU2MTQsIm5iZiI6MTcxNTQ3NTMxNCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTEyVDAwNTUxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1Mjk0YjQ1MmNmYTAzMmZmZTRkYTg1YTFiMTQ3YTcxYTU0OWM2NDBjNjk0NDM5MmVjMGEyNjE1NGE0MmM0ZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CUa41g_WEIHgGC2TETwk0zZ7-uhCioSMNXAY6bWoKeI"/>
  
 <div>
-    ♡ Github com as atividades do curso Técnico em Desenvolvimento de Sistemas - Coltec (Github atual <a href="https://github.com/NicolleTO">NicolleTO</a>)<br><br>
+    ♡ Github com as atividades do curso Técnico em Desenvolvimento de Sistemas - Coltec <br><br>
+    ♡ Github atual 👉 <a href="https://github.com/NicolleTO">NicolleTO</a>)<br><br>
 </div>
 <br><br>
 
