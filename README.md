@@ -3,11 +3,9 @@
  
 <div>
     ♡ Github com as atividades do curso Técnico em Desenvolvimento de Sistemas - Coltec <br><br>
-    ♡ Github atual 👉 <a href="https://github.com/NicolleTO">NicolleTO</a>)<br><br>
+    ♡ Github atual 👉 <a href="https://github.com/NicolleTO">NicolleTO</a><br><br>
 </div>
 <br><br>
-
-##
 
 
 <!--
